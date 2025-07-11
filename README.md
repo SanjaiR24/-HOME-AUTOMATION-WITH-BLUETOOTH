@@ -39,13 +39,7 @@ This task demonstrates basic wireless control, digital output switching, and rea
 *WORKING PRINCIPLE*:
 
 The user pairs the HC-05 module with a mobile phone and sends predefined commands using a Bluetooth Controller app. The Arduino receives these commands via hardware serial and switches the relay ON or OFF.
-The relay in turn controls the 12V LED, simulating a basic home appliance. The LED turns ON or OFF based on received commands:
-
-'A' = Turn ON
-
-'B' = Turn OFF
-
-This demonstrates the concept of wireless device control using Arduino and Bluetooth communication.
+The relay in turn controls the 12V LED, simulating a basic home appliance. The LED turns ON or OFF based on received commands.
 
 *OUTPUT*
 
