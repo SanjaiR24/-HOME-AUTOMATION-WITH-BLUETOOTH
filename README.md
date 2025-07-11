@@ -20,7 +20,7 @@ This task demonstrates basic wireless control, digital output switching, and rea
 
 *COMPONENTS USED*:
    
-  Arduino UNO
+   Arduino UNO
 
   HC-05 Bluetooth Module
 
