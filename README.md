@@ -20,29 +20,31 @@ This task demonstrates basic wireless control, digital output switching, and rea
 
 *COMPONENTS USED*:
    
-Arduino UNO
+  Arduino UNO
 
-HC-05 Bluetooth Module
+  HC-05 Bluetooth Module
 
-Relay Module (1 Channel)
+  Relay Module (1 Channel)
 
-12V LED Module
+  12V LED Module
 
-12V DC Power Adapter or Battery
+  12V DC Power Adapter or Battery
 
-Jumper Wires
+  Jumper Wires
 
-Breadboard
+  Breadboard
 
-Android Phone (with Bluetooth Controller App)
+  Android Phone (with Bluetooth Controller App)
 
 *WORKING PRINCIPLE*:
 
 The user pairs the HC-05 module with a mobile phone and sends predefined commands using a Bluetooth Controller app. The Arduino receives these commands via hardware serial and switches the relay ON or OFF.
 The relay in turn controls the 12V LED, simulating a basic home appliance. The LED turns ON or OFF based on received commands:
+
 'A' = Turn ON
 
 'B' = Turn OFF
+
 This demonstrates the concept of wireless device control using Arduino and Bluetooth communication.
 
 *OUTPUT*
