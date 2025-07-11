@@ -50,3 +50,5 @@ This demonstrates the concept of wireless device control using Arduino and Bluet
 *OUTPUT*
 
 ![Image](https://github.com/user-attachments/assets/697cc9f8-7c98-4df9-8df5-6973b0dc01b1)
+
+https://github.com/user-attachments/assets/911cc58d-ad2f-4fe6-bb19-79d151618598
